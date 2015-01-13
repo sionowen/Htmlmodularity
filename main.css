@@ -1,0 +1,41 @@
+/* ADD YOUR STYLES HERE */
+.statlable{ 
+	color: gray;
+
+}
+
+.statistic{
+	font-size: 25px;
+
+
+}
+
+.bar{
+	background-color: aqua
+
+
+}
+.header-width{
+	width: 15%;
+
+
+}
+
+.bar-graph{
+	width: 100%;
+}
+.lightbox{
+	background-color: white;
+	padding-left: 35%;
+	padding-right: 15%;
+}
+
+.centertext{
+	text-align: center;
+	width: 100%;
+
+}
+.backgroundbutton{
+	background-color: gray;
+
+}
